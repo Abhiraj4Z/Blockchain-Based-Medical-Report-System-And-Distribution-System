@@ -106,7 +106,7 @@ Medical information is sensitive. Access permissions, encryption, authentication
 
 This project is intended for educational and research purposes. It should not be used to store or distribute real patient data without appropriate security testing, privacy safeguards, and regulatory compliance.
 
-## Author
 
-**Abhiraj Murali TV**
-
+git add README.md
+git commit -m "Improve project README"
+git push origin main
